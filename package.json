@@ -1,0 +1,21 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "Cypress to do app testing tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "Bojan Srdic",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
